@@ -1,2 +1,2 @@
 README created
-REDME created снова (простите, я немец)
+срочные изменения для второй строки для ветки hotfix/typo-fix
