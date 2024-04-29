@@ -1,3 +1,2 @@
 README created
-изменения для ветки feature/additional-content
-
+срочные изменения для второй строки для ветки hotfix/typo-fix
